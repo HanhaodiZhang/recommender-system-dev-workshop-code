@@ -33,7 +33,7 @@ Parameters:
     
   ECRPrefix:
     Type: String
-    Default: 522244679887.dkr.ecr.ap-northeast-1.amazonaws.com
+    Default: 472383854665.dkr.ecr.us-east-1.amazonaws.com
 
 Resources:
   SMProcessingStepFunc:
