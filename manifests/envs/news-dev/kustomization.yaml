@@ -50,10 +50,10 @@ images:
   newTag: latest
 - name: rs/recall
   newName: 472383854665.dkr.ecr.us-east-1.amazonaws.com/rs/recall
-  newTag: 10a90edff41b188926102847b77b17b1db4dc127
+  newTag: 2792ec0114cac69a09907f98316e5e5b2105c0fe
 - name: rs/recall-plugin
   newName: 472383854665.dkr.ecr.us-east-1.amazonaws.com/rs/recall-plugin
-  newTag: news-10a90edff41b188926102847b77b17b1db4dc127
+  newTag: news-2792ec0114cac69a09907f98316e5e5b2105c0fe
 - name: rs/retrieve
   newName: public.ecr.aws/t8u1z3c8/rs/retrieve
   newTag: latest
